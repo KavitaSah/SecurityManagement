@@ -33,13 +33,21 @@ $ git commit -m 'your commit message'
 ## Environment Set-Up  
 
 With Conda  
-1. 
+1. Create Conda Environment
 ``` 
 $ conda create -n sec python=3.5 anaconda 
 ```
-2. 
+2. Activate Environment
 ```
 $ source activate sec
+```
+3. (OPTIONAL) Install New Packages
+```
+$ conda install <packagename>
+```
+4. Deactivate Environment
+```
+$ source deactivate
 ```
 
 Requirements:  
