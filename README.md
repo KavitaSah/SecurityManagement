@@ -31,10 +31,19 @@ $ git commit -m 'your commit message'
 ```  
 
 ## Environment Set-Up  
+
+With Conda  
+1. ``` 
+    $ conda create -n sec python=3.5 anaconda 
+   ```
+2. ```
+    $ source activate sec
+    ```
+
 Requirements:  
-- python 3.5+  
-- pandas 23.  
-- jupyter  
+- python==3.5.4  
+- pandas==0.22  
+- jupyter==1.0.0
 
 [To Be Updated]: I suggest some sort of virtual environment manager, such as conda or pipenv. Or, you can pull a docker image from jupyter. 
 
