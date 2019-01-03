@@ -33,12 +33,14 @@ $ git commit -m 'your commit message'
 ## Environment Set-Up  
 
 With Conda  
-1. ``` 
-    $ conda create -n sec python=3.5 anaconda 
-   ```
-2. ```
-    $ source activate sec
-    ```
+1. 
+``` 
+$ conda create -n sec python=3.5 anaconda 
+```
+2. 
+```
+$ source activate sec
+```
 
 Requirements:  
 - python==3.5.4  
