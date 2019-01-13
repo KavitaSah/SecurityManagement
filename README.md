@@ -39,7 +39,10 @@ You probably already have one :)
 2. Go to http://colab.research.google.com
 You can create new notebooks, or open a notebook from Github, Google Drive, or your local host
 
-You can open one of the notebooks in this repo by going to Open > Github > enter notebook github URL
+You can open one of the notebooks in this repo by either:
+- In Colab, going to Open > Github > enter notebook github URL
+- From a notebook in this repo: replace https://github.com/ with https://colab.research.google.com/github/ in the notebook URL
+
 
 
 ### With Conda  
