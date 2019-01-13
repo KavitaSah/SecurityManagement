@@ -32,7 +32,17 @@ $ git commit -m 'your commit message'
 
 ## Environment Set-Up  
 
-With Conda  
+### With Google Colab  
+1. Create a google account  
+You probably already have one :) 
+
+2. Go to http://colab.research.google.com
+You can create new notebooks, or open a notebook from Github, Google Drive, or your local host
+
+You can open one of the notebooks in this repo by going to Open > Github > enter notebook github URL
+
+
+### With Conda  
 1. Create Conda Environment
 ``` 
 $ conda create -n sec python=3.5 anaconda 
@@ -55,7 +65,7 @@ Requirements:
 - pandas==0.22  
 - jupyter==1.0.0
 
-[To Be Updated]: I suggest some sort of virtual environment manager, such as conda or pipenv. Or, you can pull a docker image from jupyter. 
+[To Be Updated]: I suggest some sort of virtual environment manager, such as conda or pipenv.
 
 ## Assignment Submission
 After you have complted the assignment, you must turn in the PDF copy to Courseweb.  
