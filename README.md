@@ -71,7 +71,7 @@ Requirements:
 [To Be Updated]: I suggest some sort of virtual environment manager, such as conda or pipenv.
 
 ## Assignment Submission
-After you have complted the assignment, you must turn in the PDF copy to Courseweb.  
+After you have complted the assignment, you must turn in the .ipynb notebook and PDF copy to Courseweb.  
 
 - *.pdf - Export the *.ipynb jupyter notebok as a PDF  
 - Login to Courseweb and upload the PDF of the assignment  
