@@ -66,15 +66,15 @@ $ pip install <packagename>
 $ source deactivate
 ```
 
-Requirements:  
+### General Requirements:  
 - python==3.5.4  
 - pandas==0.22  
 - jupyter==1.0.0
 - geoip2
 
-Also, please see [https://dev.maxmind.com/geoip/geoip2/geolite2/](https://dev.maxmind.com/geoip/geoip2/geolite2/) to download
-IP database.  Look for: GeoLite2-City.mmdb
-
+#### Additional Requirements for Lab 1
+- IP database (GeoLite2-City.mmdb) from: [https://dev.maxmind.com/geoip/geoip2/geolite2/](https://dev.maxmind.com/geoip/geoip2/geolite2/)
+- [Docker](https://www.docker.com) _to run honeypot_
 
 ## Assignment Submission
 After you have complted the assignment, you must turn in the .ipynb notebook and PDF copy to Courseweb.  
